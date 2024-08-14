@@ -1,6 +1,8 @@
 
-###Quiz App
+### Quiz App
+
 Overview
+
 This is a Quiz App built using HTML, CSS, and JavaScript.
 
 The application allows users to answer multiple-choice questions, calculates their score, and displays the results.
